@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-- 🎈 I’m currently working on [Ironflag](https://www.ironflag.io/)
+- 🎈 I’m currently working on [Shinhan Bank](https://www.shinhan.com)
 - 🌱 I’m currently learning full stack with AWS serverless service
 - ✨ If you want to know about me, please look at the [portfolio site](https://portfolio.awmaker.com).
 - 🎁 Packages
